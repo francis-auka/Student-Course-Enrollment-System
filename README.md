@@ -46,6 +46,6 @@ enrollments: Records which students are enrolled in which course offering, along
 
 🔗 ERD Diagram
 Below is the visual representation of the database structure:
-![ERD image](./screenshot ERD)
+![ERD image](./screenshot ERD.png)
 
 
