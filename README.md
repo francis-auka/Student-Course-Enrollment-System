@@ -31,7 +31,7 @@ This database system allows:
 ```bash
 mysql -u your_username -p < answers.sql
 
-
+```
 --🧱 Database Structure
 Tables:
 students: Contains student details
